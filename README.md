@@ -1,29 +1,3 @@
-<section id="profile" aria-label="Profile" style="font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, Noto Sans, Apple Color Emoji, Segoe UI Emoji; line-height:1.6; color:#0f172a; max-width: 980px; margin: 0 auto; padding: 24px;">
-  <style>
-    @media (prefers-color-scheme: dark) {
-      #profile { color: #E5E7EB; }
-      #profile .muted { color:#9CA3AF; }
-      #profile .card { background: #0B1220; border-color:#1F2937;}
-      #profile .pill { border-color:#374151; background:#0F172A;}
-      #profile a { color:#93C5FD; }
-      #profile .divider { background: linear-gradient(90deg, #1F2937, transparent); }
-    }
-    #profile h1, #profile h2, #profile h3 { margin: 0 0 8px 0; line-height:1.25; }
-    #profile h1 { font-size: clamp(28px, 2.4vw, 40px); letter-spacing:-0.02em; }
-    #profile h2 { font-size: clamp(18px, 1.6vw, 22px); margin-top: 24px; }
-    #profile p { margin: 8px 0; }
-    #profile .muted { color:#475569; }
-    #profile .wrap { display:grid; gap: 18px; }
-    #profile .grid { display:grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 14px; }
-    #profile .card { border:1px solid #e5e7eb; border-radius: 14px; padding: 16px; background:#fff; }
-    #profile .pill { display:inline-block; border:1px solid #e5e7eb; border-radius:999px; padding:4px 10px; font-size: 13px; margin:4px 6px 0 0; background:#fafafa; }
-    #profile .kpi { display:flex; align-items:center; gap:10px; }
-    #profile .kpi strong { font-size: 18px; }
-    #profile .divider { height:1px; background: linear-gradient(90deg, #e5e7eb, transparent); margin: 16px 0; }
-    #profile .list { padding-left: 18px; margin: 8px 0; }
-    #profile .btn { display:inline-block; padding:10px 14px; border-radius:10px; border:1px solid #e5e7eb; text-decoration:none; }
-  </style>
-
   <!-- Header -->
   <header>
     <h1>Data & Analytics Professional — SQL • Python • BI • ML Collaboration</h1>
