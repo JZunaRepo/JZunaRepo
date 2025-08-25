@@ -3,9 +3,9 @@
     <h1>Data & Analytics Professional — SQL • Python • BI • ML Collaboration</h1>
     <p class="muted">I turn messy, multi-source data into trustworthy products, KPIs, and insight-led decisions. Passionate about equity in education and data that improves real-world outcomes.</p>
     <p>
-      <a class="btn" href="mailto:you@example.com" aria-label="Email">📧 Email</a>
-      <a class="btn" href="https://www.linkedin.com/in/your-handle" aria-label="LinkedIn">🔗 LinkedIn</a>
-      <a class="btn" href="https://github.com/your-handle" aria-label="GitHub">🐙 GitHub</a>
+      <a class="btn" href="mailto:jonnathan.zunalargo@gmail.com" aria-label="Email">📧 Email</a>
+      <a class="btn" href="https://www.linkedin.com/in/jonnathan-zuna-857a08171/" aria-label="LinkedIn">🔗 LinkedIn</a>
+      <a class="btn" href="https://github.com/JZunaRepo/JZunaRepo" aria-label="GitHub">🐙 GitHub</a>
       <span class="muted" style="margin-left:8px;">Last updated: Aug 25, 2025</span>
     </p>
     <div class="grid" role="list" aria-label="Quick facts">
@@ -56,7 +56,7 @@
     </ul>
   </section>
 
-  <!-- Featured Projects -->
+  <!-- Featured Projects 
   <section aria-labelledby="projects">
     <h2 id="projects">Featured Projects</h2>
     <div class="grid">
@@ -88,7 +88,7 @@
         <p><a href="https://github.com/your-handle/data-quality-framework" rel="nofollow">Repository</a></p>
       </article>
     </div>
-  </section>
+  </section> -->
 
   <!-- How I Work -->
   <section aria-labelledby="approach">
@@ -104,25 +104,7 @@
   <!-- Contact -->
   <section aria-labelledby="contact">
     <h2 id="contact">Let’s Connect</h2>
-    <p>Email: <a href="mailto:you@example.com">you@example.com</a> • LinkedIn: <a href="https://www.linkedin.com/in/your-handle">your-handle</a> • GitHub: <a href="https://github.com/your-handle">@your-handle</a></p>
+    <p><a class="btn" href="mailto:jonnathan.zunalargo@gmail.com" aria-label="Email">📧 Email</a>
+      <a class="btn" href="https://www.linkedin.com/in/jonnathan-zuna-857a08171/" aria-label="LinkedIn">🔗 LinkedIn</a></p>
   </section>
 
-  <!-- Structured Data for SEO (optional) -->
-  <script type="application/ld+json">
-    {
-      "@context":"https://schema.org",
-      "@type":"Person",
-      "name":"Your Name",
-      "jobTitle":"Data & Analytics Professional",
-      "url":"https://github.com/your-handle",
-      "sameAs":[
-        "https://www.linkedin.com/in/your-handle",
-        "https://your-portfolio.com"
-      ],
-      "knowsAbout":[
-        "SQL","Python","Data Modeling","Tableau","Looker","Power BI","dbt",
-        "A/B Testing","Machine Learning","Data Governance","ETL","Spark","Presto","Hive"
-      ]
-    }
-  </script>
-</section>
