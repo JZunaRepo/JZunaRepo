@@ -1,6 +1,6 @@
   <!-- Header -->
   <header>
-    <h1>Data & Analytics Professional — SQL • Python • BI • ML Collaboration</h1>
+    <h1>Data & Analytics Professional: SQL • Python • BI • ML Collaboration</h1>
     <p class="muted">I turn messy, multi-source data into trustworthy products, KPIs, and insight-led decisions. Passionate about equity in education and data that improves real-world outcomes.</p>
     <p>
       <a class="btn" href="mailto:jonnathan.zunalargo@gmail.com" aria-label="Email">📧 Email</a>
